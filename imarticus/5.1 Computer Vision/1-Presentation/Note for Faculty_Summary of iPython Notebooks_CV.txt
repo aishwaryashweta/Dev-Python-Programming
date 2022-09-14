@@ -1,0 +1,25 @@
+In-Class Demo Notebooks facilitates the teaching of a concept in a class. The faculty will explain the concept in a class and then run the ".ipynb" file which are placed in the "In-class demo" folder. The class presentation slides explicitly states at what point the demo files need to run.
+
+In-class Demo Notebooks
+--------------------------------------
+Processing_Image.ipynb
+Image_Channels.ipynb
+Image_Geometric_Transformations.ipynb
+Image_Spatial_Intensity_Resolution_Histogram.ipynb
+Line_Rectangle_Circle.ipynb
+Bounding_Box.ipynb
+Morphology.ipynb
+
+In-class Exercise Notebooks
+-----------------------
+Edge_Detection_Sobel.ipynb
+HoG_Digits.ipynb
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PROJECT: Multi-class Image Classification Problem - Flower Classification
+
+Solution Notebook: 
+Flower_Classification.ipynb
+
+
+ 
